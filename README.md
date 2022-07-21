@@ -31,7 +31,7 @@ Exemplo do projeto finalizado.
 
 ## Available Scripts
 
-No diretório do projeto, voceê pode escrever as seguintes linhas de código:
+No diretório do projeto, você pode escrever as seguintes linhas de código:
 
 ## O Projeto Original
 
