@@ -14,7 +14,7 @@ Vamos criar um aplicativo usando a API pública do github.
 - Pesquisar repositório por nome de usuário
 - Pesquisa com estrela por nome de usuário
 
-### Preview
+### Visualizar
 
 Exemplo do projeto finalizado.
 
